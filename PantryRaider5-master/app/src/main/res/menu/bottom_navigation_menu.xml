@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--to change icon, right click drawable folder. click new, image asset, select action bar, enter icon name...-->
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="">
+    </item>
+
+
+    <item
+        android:id="@+id/ic_search"
+        android:icon="@drawable/ic_search"
+        android:title="">
+    </item>
+
+    <item
+        android:id="@+id/ic_pantry"
+        android:icon="@drawable/ic_pantry"
+        android:title="">
+    </item>
+
+    <item
+        android:id="@+id/ic_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="">
+    </item>
+</menu>

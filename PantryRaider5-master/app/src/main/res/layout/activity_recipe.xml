@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bamboobackground"
+    tools:context="com.example.stevetran.pantryraider.Search.Recipes.RecipeActivity"
+    >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <TextView
+                android:id="@+id/recipename_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/image_detail"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:visibility="visible"
+                tools:layout_editor_absoluteX="122dp"
+                tools:layout_editor_absoluteY="41dp" />
+
+            <TextView
+                android:id="@+id/labelIngredients"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Ingredients"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/IngredientList_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                android:id="@+id/label_instructions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:text="Instructions"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/Steps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textColor="@android:color/black" />
+
+            <Button
+                android:id="@+id/Save_Button"
+                android:layout_width="227dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@android:color/holo_blue_dark"
+                android:textColor="@color/white"
+                android:onClick="savePressed"
+                android:text="Save Recipe" />
+
+        </LinearLayout>
+
+</ScrollView>

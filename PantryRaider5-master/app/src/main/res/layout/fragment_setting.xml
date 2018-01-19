@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:weightSum="1"
+    android:background="@drawable/bamboobackground">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        android:layout_weight="1.02">
+
+        <Button
+            android:id="@+id/changePasswordButton"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="39dp"
+            android:background="@android:color/holo_blue_dark"
+            android:onClick="changePWPressed"
+            android:text="Change Password"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/setPreferencesButton"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/changePasswordButton"
+            android:layout_below="@+id/changePasswordButton"
+            android:layout_marginTop="73dp"
+            android:background="@android:color/holo_blue_dark"
+            android:text="Set Preferences"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/signOutButton"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:background="@android:color/holo_blue_dark"
+            android:text="Sign Out"
+            android:textColor="@color/white"
+            android:layout_below="@+id/setPreferencesButton"
+            android:layout_alignStart="@+id/setPreferencesButton" />
+    </RelativeLayout>
+
+</LinearLayout>

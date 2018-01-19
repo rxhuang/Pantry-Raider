@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PantryRaider</string>
+    <string name="my_recipe">My Recipe</string>
+    <string name="button">Button</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_schedules">Schedules</string>
+    <string name="text_music">Music</string>
+    <string name="thumbnail">Music</string>
+    <string name="promt_email">email</string>
+    <string name="action_sign_in_short">action_sign_in_short</string>
+    <string name="action_sign_up_short">action_sign_up_short</string>
+    <string name="action_sign_in">action_sign_in</string>
+    <string name="action_sign_up">action_sign_up</string>
+    <string name="unsave_btn">Unsave Recipe</string>
+    <string name="save_btn">Save Recipe</string>
+    <string-array name="arrayRecipes">
+        <item></item>
+    </string-array>
+    <string-array name="ListIngredients">
+        <item>1st</item>
+        <item>2nd</item>
+    </string-array>
+    <string-array name="ing_search_results">
+        <item></item>
+    </string-array>
+    <string-array name="ing_add_results">
+        <item></item>
+    </string-array>
+    <string-array name="filters">
+        <item>Search by Pantry</item>
+        <item>Types of cuisine</item>
+        <item>Max calories</item>
+    </string-array>
+    <string-array name="cuisine">
+        <item>African</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Vietnamese</item>
+        <item>Thai</item>
+        <item>Indian</item>
+        <item>British</item>
+        <item>Irish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Spanish</item>
+        <item>Middle Eastern</item>
+        <item>Jewish</item>
+        <item>American</item>
+        <item>Cajun</item>
+        <item>Southern</item>
+        <item>Greek</item>
+        <item>German</item>
+        <item>Nordic</item>
+        <item>Eastern European</item>
+        <item>Caribbean</item>
+        <item>Latin American</item>
+    </string-array>
+</resources>

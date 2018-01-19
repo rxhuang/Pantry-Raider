@@ -1,0 +1,2178 @@
+ale	10014006
+agar	11663
+apple	9003
+agave	19912
+aioli	93758
+anise	2002
+almond	12061
+asiago	1001033
+avocado	9037
+arugula	11959
+anchovy	15001
+apricot	9021
+amla	99168
+alum	10118371
+achiote	93648
+allspice	2001
+amchur	98964
+amaretto	10014534
+ahi tuna	15117
+amaranth	20001
+asparagus	11011
+arrowroot	20003
+aubergine	11209
+asafetida	1032035
+applesauce	9019
+artichokes	11007
+all-bran	8001
+andouille	7064
+au jus	6996
+alo drink	99095
+angel hair	10020420
+ajwain	99017
+alcohol	14037
+almond milk	93607
+apple juice	9016
+apple cider	1009016
+adobo sauce	6979
+almond meal	93740
+apricot jam	19719
+avocado oil	4581
+apple jelly	10019297
+amaretti	93766
+almond bark	98857
+anjou pear	1009252
+almond oil	4529
+acai juice	98896
+ancho chile	10211962
+active yeast	18375
+arborio rice	10020052
+acorn squash	11482
+almond paste	12071
+apple butter	19294
+andes mints	98917
+arbol chiles	11962
+almond butter	12195
+alfredo sauce	93606
+anchovy paste	10015002
+almond extract	1002050
+aleppo pepper	1062009
+anise extract	10611111
+anaheim chile	10031015
+apricot nectar	9036
+aji amarillo	10311819
+american cheese	1253
+angel food cake	18088
+apple pie spice	1042035
+adobo seasoning	1012020
+alfalfa sprouts	10111001
+artichoke hearts	93828
+adzuki beans	16002
+asian fish sauce	6179
+all purpose flour	20081
+allspice berries	1002001
+apple pie filling	19312
+amaranth flour	93763
+all natural eggs	1123
+annatto seeds	10093648
+angostura bitters	93653
+ancho chile powder	1022009
+apple cider vinegar	2048
+angel food cake mix	18087
+acini di pepe	93647
+aged balsamic vinegar	1002069
+applewood smoked bacon	10123
+artichoke bottoms	98959
+almond joy bar	19065
+aluminum free baking powder	18371
+asian toasted sesame dressing	4016
+aji amarillo paste	1006973
+ackee	93693
+ash gourd	99179
+artificial vanilla flavoring	1012050
+alcaparrado	1029195
+apricot cake filling	98941
+alligator meat	99120
+anchovies in salt	93796
+asian vegetables	10111583
+amaretti cookie crumbs	10093766
+acai berry powder	99094
+allergy friendly chocolate chips	98848
+beer	14006
+beef	23572
+beet	11080
+brie	1006
+bran	20077
+brat	7013
+bacon	10123
+bread	18064
+basil	2044
+broth	1006615
+boar	17158
+berry	1009054
+besan	16157
+brine	93798
+bagel	18408
+butter	1001
+banana	9040
+brandy	10114037
+bulgur	20012
+barley	20004
+bison	17330
+bourbon	10014037
+bitters	93653
+brioche	93730
+boule	98907
+biscuit	18009
+bay leaf	2004
+broccoli	11090
+baguette	18033
+bok choy	11116
+burrata	93617
+bologna	7008
+belacan	93657
+bisquick	18010
+bouillon	1006008
+bucatini	11620420
+bbq sauce	6150
+baby peas	11304
+baby corn	10011168
+bacon fat	4609
+biscotti	98843
+beef base	1016076
+blueberry	9050
+buckwheat	20008
+bosc pear	9252
+buttermilk	1230
+beef broth	6008
+brown rice	20040
+beef stock	6170
+black tea	14355
+beef steak	23232
+bacon bits	10862
+breadcrumb	18079
+broccolini	98840
+beef gravy	6997
+baby beets	10111080
+baking bar	19078
+bread bowl	99169
+baharat	10093663
+branzino	15004
+beef bones	11611111
+booze	14037
+brown sugar	19334
+baking soda	18372
+blackberry	9042
+bell pepper	10211821
+bread flour	10120129
+blue cheese	1004
+black beans	16015
+brownie mix	18632
+bocconcini	93790
+basil pesto	93698
+baked beans	16009
+big shells	10520420
+bread dough	99063
+baby greens	21052
+beef shank	13227
+burger buns	18350
+brown gravy	6998
+broad beans	16053
+bean curd	16162
+brown onion	10511282
+black rice	10020036
+black pepper	1002030
+baby spinach	11457
+black olives	1059195
+bone broth	98904
+baby carrots	11960
+baking cocoa	19165
+basmati rice	10020444
+baby arugula	11959
+bean sprouts	11043
+beef brisket	13023
+beet greens	11086
+bibb lettuce	11250
+bagel chips	99098
+bay scallops	15172
+beef heart	13321
+beef liver	13325
+beef franks	7241
+cod	15015
+corn	11168
+carp	15008
+crab	15136
+cola	14400
+chai	14355
+cumin	1002014
+cream	1053
+cocoa	19165
+clams	15157
+chili	11819
+chard	11147
+chive	11156
+crema	93772
+clove	1002011
+celery	11143
+carrot	11124
+capers	2054
+coffee	14209
+cheese	1041009
+cereal	8029
+cherry	9070
+cognac	10414037
+cookie	10118192
+catsup	11935
+caviar	15012
+crisco	4615
+cashew	12087
+chevre	1159
+crepes	93732
+citron	10093702
+coconut	12104
+chicken	1025006
+cabbage	11109
+cayenne	2031
+cheddar	1009
+chorizo	7019
+caramel	19074
+chervil	2008
+cow pea	16063
+campari	93788
+comte	1001023
+chicory	11213
+custard	19170
+catfish	15010
+currant	9085
+curacao	99029
+cracker	18621
+chayote	11149
+cachaca	93787
+cupcake	18139
+cinnamon	2010
+cilantro	11165
+cucumber	11206
+cornmeal	35137
+couscous	20028
+cardamom	2006
+croutons	18242
+crabmeat	10015136
+corn oil	42289
+celeriac	11141
+chipotle	11632
+cob corn	11167
+capsicum	10211821
+cockles	35028
+ciabatta	93655
+calvados	10214037
+calamari	15175
+craisins	9079
+chablis	10014160
+chianti	14108
+chestnut	12098
+chickpea	16057
+cheerios	8013
+crostini	10018033
+chocolate	19081
+coriander	2012
+club soda	14121
+cornflour	20027
+champagne	10043155
+crawfish	15243
+chili oil	1014053
+cornbread	18023
+courgette	11477
+chia seed	12006
+corn chex	8019
+capicola	93679
+canola oil	4582
+corn syrup	19350
+cake flour	10020129
+cooked ham	7214
+corn chips	19003
+clam juice	14187
+cane sugar	19335
+cantaloupe	9181
+cumin seed	2014
+crab boil	1002034
+corn flour	20019
+collards	11161
+cornflakes	8020
+dal	16069
+dill	2045
+duck	5139
+dog	21118
+date	9087
+dashi	1006963
+dulse	93615
+daikon	11430
+dark rum	14037
+deli ham	10010151
+duck fat	4574
+dry milk	1090
+deer	17164
+diced ham	99186
+dry yeast	18375
+ditalini	10020499
+dark beer	14006
+diet soda	14146
+dry cider	93807
+duck legs	5317
+dill seed	2016
+dry sherry	10114106
+dried sage	1002038
+dairy milk	1077
+dried dill	2017
+dried figs	9094
+dried mint	2066
+demi glace	93612
+dried thyme	2042
+dried basil	2003
+dry mustard	1002024
+dried onion	11284
+dill pickle	10011937
+deli turkey	7259
+demerara	10019908
+dried fruit	9426
+duck breast	98912
+dried herbs	1022042
+dried plums	9291
+dry red wine	14097
+double cream	1011053
+drumsticks	5066
+dry vermouth	14132
+dessert wine	10014057
+dr pepper	98974
+dried chives	11615
+dried garlic	2020
+dried apples	9011
+duck eggs	1138
+dijon mustard	1002046
+dried parsley	2029
+dried shrimp	10093657
+dark molasses	19304
+dried mango	93638
+dried apricot	9032
+dry white wine	14106
+dried beans	16032
+dried rosemary	2036
+dark chocolate	19904
+dried cherries	93822
+dried marjoram	2023
+dried tarragon	2041
+dried currants	9085
+dried raisins	9299
+dulce de leche	98861
+dried ginger	2021
+dried bay leaf	2004
+dried cilantro	2012
+dried pears	9259
+dark sesame oil	1004058
+dry breadcrumbs	18079
+dark corn syrup	19349
+decorating gel	98881
+dark brown sugar	10019334
+dried chickpeas	16056
+drambuie	99187
+dry couscous	20028
+dried tomatoes	11955
+delicata squash	11643
+dried chilies	10111962
+dried peaches	9246
+dried cranberries	9079
+dried pineapple	93639
+dungeness crabs	15143
+dried navy beans	16037
+dried blueberries	93686
+dandelion greens	11207
+dried rubbed sage	2038
+dry onion soup mix	6094
+dark chocolate bar	10019904
+dried pinto beans	16042
+desiccated coconut	12108
+dinner yeast rolls	18347
+dry roasted peanuts	16090
+dill pickle relish	11944
+deep dish pie crust	18945
+dried green lentils	10016069
+distilled vinegar	2053
+dark chocolate chips	10019071
+dried cane syrup	93625
+egg	1123
+eel	15025
+eggnog	1057
+endive	11213
+elk	17166
+edamame	11212
+epazote	98908
+egg yolk	1125
+eggplant	11209
+espresso	14210
+ear corn	11167
+egg white	1124
+erythritol	98887
+egg noodles	20409
+edible gold	12611111
+egg beaters	93833
+elbow pasta	10120499
+ez sweets	10119868
+egg replacer	1144
+elderflower	11211111
+egg substitute	1226
+evaporated milk	1214
+english muffin	18439
+extra firm tofu	10016162
+enchilada sauce	6599
+espresso powder	10014214
+edible flowers	10011416
+english cucumber	10111205
+enoki mushrooms	11950
+edam cheese	1018
+egg roll wrappers	18368
+escargot	90560
+elk round roast	35177
+extravirgin olive oil	1034053
+evaporated skim milk	1097
+extra lean ground beef	23557
+emmental cheese	1040
+evaporated cane juice	93625
+empanada dough	93734
+extra sharp cheddar cheese	1021009
+extra large shrimp	15152
+elderflower liqueur	99126
+egg white powder	1173
+elderberry	9088
+elk tenderloin	10017166
+european seabass	15004
+elk steak	10035177
+everything bagel	18408
+enriched durum flour	20076
+ethanol	14037
+entrecote	23232
+elk sausage	10017338
+lemon extract	12311111
+belgian endive	11151
+peppermint extract	1022050
+ener g egg replacer	93658
+lemon essence	11411111
+stevia extract	93628
+fresh epazote	10098908
+reduced fat evaporated milk	98993
+dried epazote	13011111
+pure vanilla extract	2050
+rum extract	12211111
+maple extract	12111111
+anise extract	10611111
+ras el hanout	1062027
+coffee extract	13111111
+ww english muffin	18266
+cooked egg noodles	20410
+dried black eye peas	16062
+cooked elbow macaroni	20400
+canned black eyed peas	10016063
+whole wheat elbow macaroni	10220124
+gluten-free elbow macaroni pasta	10398875
+flax egg	10112220
+chia egg	10012006
+duck eggs	1138
+poached eggs	1131
+orange extract	12511111
+japanese eggplant	10011209
+raspberry extract	14011111
+pork escalopes	98960
+quail eggs	1140
+curly endive	11152
+black eyed peas	16063
+chuck eye steak	23145
+mango extract	11011111
+almond extract	1002050
+bird's eye chile	11670
+ground elk	17338
+vanilla essence	1012050
+licorice extract	12811111
+hardboiled eggs	1129
+chocolate extract	13411111
+chocolate eggs	99112
+anchovies in extra virgin olive oil	15002
+chocolate covered espresso beans	19268
+bison rib eye	17268
+monk fruit extract	13911111
+fiori di sicilia extract	13611111
+fig	9089
+feta	1019
+fish	10115261
+flax	10012220
+flour	20081
+fruit	9431
+farro	10020005
+fudge	19100
+fries	11408
+frank	21118
+fennel	11957
+frisee	11152
+fritos	19003
+fusilli	11320420
+fig jam	11519297
+food dye	10711111
+frosting	19230
+farfalle	10120420
+flax egg	10112220
+freekeh	98869
+flounder	15028
+focaccia	93837
+flax meal	12220
+flatbread	10018413
+foie gras	1005150
+fresh mint	2064
+fresh dill	2045
+fish sauce	6179
+fresh sage	2038
+fettuccine	10020409
+fresh peas	11304
+fresh corn	11167
+fish stock	6963
+fava beans	16053
+filo dough	18338
+firm tofu	16162
+farina	8104
+fuji apple	1019003
+flat beans	10011052
+fresh basil	2044
+fresh thyme	2049
+frozen corn	11913
+frying oil	4513
+flank steak	23657
+fennel seed	2018
+fresh herbs	1012024
+fregola	12320420
+fresh ginger	11216
+fresh chives	11156
+french bread	18029
+flavor shot	10242040
+fresh yeast	18374
+fried onions	93709
+fleur de sel	1022047
+file powder	11311111
+fresh nutmeg	2025
+fresh tuna	10015117
+flax oil	98934
+fruit pectin	19310
+fresh parsley	11297
+fat-free milk	1085
+full-fat milk	1077
+flake coconut	12108
+fresh pasta	20093
+filet mignon	10013926
+fudge topping	10019348
+fresh ricotta	1036
+fillo shells	93817
+fresh cilantro	11165
+fresh rosemary	2063
+frozen spinach	11463
+fresh tarragon	2041
+fontina cheese	1020
+fresh marjoram	1022024
+free range egg	1123
+fine salt	1092047
+fat of choice	1011001
+fruit cocktail	9099
+fresh bay leaf	1002004
+flour tortilla	10218364
+fresh mushrooms	11260
+finger chili	10211819
+french baguette	18033
+fat-free mayo	42193
+fenugreek seeds	2019
+frozen waffles	28015
+fresh mozzarella	1026
+fennel powder	98953
+fruit cake mix	98925
+fat-free yogurt	1118
+fennel pollen	93808
+fenugreek leaves	98963
+fresh corn kernels	10011167
+five spice powder	1002002
+farmer cheese	98933
+french dressing	4120
+fine cornmeal	35137
+fresh bean sprouts	11043
+fresh horseradish	98949
+fingerling potatoes	10111352
+gin	10514037
+ghee	93632
+grits	8160
+gravy	6997
+gouda	1022
+grape	9132
+guava	9139
+goose	93714
+garlic	11215
+ginger	11216
+greens	21052
+grappa	93809
+gelatin	19177
+gruyere	1023
+granola	8212
+gnocchi	98853
+grouper	15031
+guar gum	93765
+gumdrops	19106
+galangal	93656
+gemelli	10420420
+guinness	93619
+gherkins	11941
+guacamole	1009037
+grenadine	10042040
+gochujang	1016973
+goat milk	1106
+green tea	10014355
+ginger ale	14136
+grapefruit	9112
+green peas	11304
+gorgonzola	1011004
+gala apple	9003
+guanciale	93799
+goose fat	4576
+garlic oil	1004053
+ground beef	10023572
+green onion	11291
+goat cheese	1159
+green beans	11052
+garlic salt	1062047
+ground pork	10219
+galliano	93780
+ground lamb	17224
+ground mace	2022
+green chili	31015
+gochugaru	1072009
+ground sage	1002038
+green apple	1029003
+ground veal	17142
+grape juice	9135
+gingersnaps	18172
+ginger beer	10014136
+grape jelly	10519297
+gem squash	10111641
+grain blend	10020088
+golden beet	10011080
+ground cumin	1002014
+greek yogurt	1256
+garam masala	93663
+green pepper	11333
+green salsa	27028
+green olives	1029195
+ground thyme	2042
+ginger paste	93754
+garbanzos	16057
+golden syrup	93829
+greek olives	1019195
+garlic paste	10111215
+ground round	10023562
+gummy worms	93642
+ground clove	2011
+grill cheese	10093624
+ground pepper	1002030
+garlic powder	1022020
+ground nutmeg	2025
+ground ginger	2021
+ground turkey	5662
+grape leaves	11974
+gumbo file	11311111
+grapeseed oil	4517
+green cabbage	11109
+ginger juice	93752
+grand marnier	10314534
+guava juice	93678
+goji berries	98863
+ground sumac	10211111
+green gram	16080
+ground coffee	10093715
+ground bison	17330
+green tomato	11527
+grape tomatoes	10111529
+golden raisins	9297
+graham flour	98886
+ground mustard	1002024
+gravlax	93689
+ground almonds	93740
+ground chicken	5332
+ground sausage	7063
+ground sirloin	10023567
+ham	10151
+hing	1032035
+honey	19296
+herbs	1002044
+hummus	16158
+hominy	20030
+hoisin	6175
+harissa	1006972
+halibut	15036
+haddock	15033
+hot dog	21118
+ham bone	12011111
+honeydew	9184
+hazelnut	12120
+ham hock	93669
+herring	15039
+hot sauce	6168
+havarti	93838
+ham steak	10149
+hemp oil	99134
+heath bar	98978
+hash	11390
+hake	98956
+hemp seeds	93602
+halloumi	93624
+hemp milk	98874
+heavy cream	1053
+half & half	1049
+horseradish	1002055
+hibiscus	14649
+hot dog buns	10018350
+hass avocado	9037
+hazelnut oil	4532
+honey mustard	4703
+hero rolls	98940
+hamburger buns	18350
+haricots verts	11052
+hershey cocoa	19165
+hamburger meat	10023572
+hot cocoa mix	14197
+ham cubes	99186
+hearts of palm	43392
+habanero chile	10011819
+hawaiian rolls	98871
+hazelnut meal	93810
+hard cooked egg	1129
+hershey kisses	93743
+hot fudge sauce	10019348
+hot pepper	11819
+heirloom tomato	11529
+hazelnut liqueur	93755
+hungarian paprika	1002028
+horseradish sauce	2055
+herbes de provence	1012042
+hearts of romaine	10011251
+huckleberries	35043
+hot giardiniera	99014
+hollandaise sauce	93801
+high gluten flour	98883
+horseradish root	98949
+hazel nut milk	99132
+halloween sprinkles	93645
+hubbard squash	11489
+hollandaise sauce mix	93802
+hemp protein powder	93601
+honey crisp apples	9003
+healthy request cream of celery soup	6987
+hamburger patties	23507
+hokkien noodles	98967
+healthy request cream of chicken soup	6195
+herring fillets	10015039
+hot pepper cheese	1025
+hamburger helper	99037
+hokkaido squash	10511643
+healthy request cream of mushroom soup	6988
+hare	98877
+honewort	99135
+ham slices	10010151
+hard liquor	14037
+homemade granola	8037
+hawaiian rock cod	15070
+homemade chili powder	2009
+chicken breast halves	1045062
+chocolate hazelnut spread	19125
+whole wheat hamburger buns	18351
+whole wheat hot dog buns	10018351
+whole wheat angel hair pasta	10420124
+chicken hearts	5025
+cashew halves	12087
+fresh herbs	1012024
+red hots	93737
+rose hips	35203
+corn husks	98922
+masa harina	20317
+beef heart	13321
+beef hot dogs	7241
+artichoke hearts	93828
+pink himalayan salt	1032047
+angel hair	10020420
+dried herbs	1022042
+ice	10014412
+icing	10019230
+iced tea	14475
+ice cream	19095
+icing sugar	19336
+irish cream	93764
+instant yeast	10118375
+italian bread	10028033
+italian herbs	1022027
+instant coffee	14214
+iodized salt	2047
+idaho potatoes	11353
+italian sausage	7036
+iceberg lettuce	11252
+instant grits	8092
+italian cheese	93651
+italian dressing	4114
+ice cream cones	18271
+instant espresso	10014214
+irish oats	93695
+israeli couscous	10020028
+instant tapioca	93660
+italian tomatoes	10211529
+instant white rice	20048
+imitation crabmeat	93735
+instant brown rice	10020048
+instant potatoes	11378
+instant oatmeal	8640
+italian turkey sausage	7927
+instant vanilla pudding	19206
+instant lemon pudding	19332
+irish moss	11444
+iceberg lettuce leaves	10011252
+instant chocolate pudding mix	19184
+italian salad dressing mix	93670
+ice cream sandwiches	98882
+italian seasoned breadcrumbs	18376
+italian beans	10011052
+instant pistachio pudding mix	19202
+instant cheesecake pudding mix	99192
+imitation vanilla extract	1012050
+instant noodles	6583
+instant hot cocoa	14197
+instant custard	19169
+in-shell walnuts	10012155
+italian mushrooms	11266
+instant cheesecake	98951
+pineapple in juice	9354
+light vanilla ice cream	19088
+light chocolate ice cream	19114
+cinnamon imperials	93737
+chipotle in adobo	11632
+skin on bone in chicken thighs	1005091
+skinless bone in chicken thighs	1005096
+squid ink pasta	99074
+basil infused oil	1044053
+solid white tuna packed in water	15121
+garlic infused oil	1004053
+tuna in olive oil	15119
+flat iron steak	23059
+bone in pork chops	10036
+bone in skin on chicken breasts	1005057
+bone in turkey breast	1005696
+bone in, skin on chicken breast halves	1015057
+bone in chicken breast halves	1035062
+bone in skin on turkey breast	1005191
+bone in pork shoulder	10072
+bone in chicken breast	1005062
+bone in pork loin	10020
+1000 island dressing	4017
+bone in pork rib roast	10044
+bone in beef short ribs	10013147
+bone in bison short ribs	10093795
+fudge ice cream topping	19348
+sundried tomatoes packed in oil	11956
+anchovies in salt	93796
+anchovies in olive oil	15002
+jamon iberico	93681
+sugar in the raw	19908
+sweet italian sausage	1007036
+cooked instant brown rice	10020049
+waffle ice cream cone	18272
+cooked israeli couscous	10020029
+cooked irish oats	10093695
+cooked instant grits	8164
+crushed ice cubes	10114412
+cooked instant white rice	20049
+caramel ice cream topping	19364
+tomatoes in juice	10211693
+soybeans in pods	11212
+chocolate ice cream	19270
+strawberry ice cream	19271
+lean bone in pork chop	10040
+sugar-free instant vanilla pudding	99022
+sugar-free instant chocolate pudding	99023
+sugar-free instant cheesecake pudding	99193
+cream cheese icing	19228
+jam	19297
+juice	1019016
+jicama	11603
+jaggery	99002
+jimmies	93645
+jalapeno	11979
+jack cheese	1001025
+jelly beans	19108
+jack fruit	9144
+jumbo shrimp	15152
+jasmine rice	10120444
+juice of lime	9160
+jamon	93680
+juice of lemon	9152
+jumbo shells	10520420
+juice of orange	9206
+jerk seasoning	1012009
+juniper berries	93613
+jalapeno jelly	93685
+jujubes	9147
+jarlsberg cheese	93791
+japanese eggplant	10011209
+jerusalem artichokes	11226
+japanese 7 spice	1002009
+jumbo marshmallows	10019116
+jalapeno sauce	1006168
+juice and zest of 1 lemon	9150
+jarred sour cherries	9065
+jobs tears	99115
+jarrahdale	10411643
+jamon iberico	93681
+japanese parsley	99135
+japanese persimmon	9263
+au jus	6996
+fig jam	11519297
+red jalapeno	10111819
+clam juice	14187
+pear juice	43408
+lime jell-o	10019172
+acai juice	98896
+yuzu juice	93682
+mint jelly	93683
+beef jerky	19002
+aloe juice	99095
+apple juice	9016
+apple jelly	10019297
+grape juice	9135
+grape jelly	10519297
+colby jack	1011
+lemon jell-o	19172
+guava juice	93678
+cherry jam	10619297
+tomato juice	11886
+pepper jack	1025
+cherry juice	93677
+carrot juice	11655
+ginger juice	93752
+cooked jasmine rice	10120445
+orange jell-o	10119172
+almond joy bar	19065
+orange juice concentrate	9214
+cooked jumbo pasta shells	10520421
+apricot jam	19719
+canned jackfruit	9420
+pickled jalapenos	10011632
+tangelo juice	1009221
+tamarind juice	9437
+dietetic jam	10043028
+raspberry jam	10719297
+dietetic jelly	10143028
+pineapple juice	9273
+cranberry juice	43382
+vegetable juice	31008
+tangerine juice	9221
+blueberry jam	11119297
+raspberry jelly	11419297
+shoulder joint of pork	10083
+blueberry juice	14623
+cranberry juice cocktail	14242
+pineapple jam	10219297
+cranberry juice concentrate	14430
+blueberry jelly	11219297
+strawberry jam	10819297
+blackberry jam	10419297
+grapefruit juice	98926
+strawberry jell-o	10219172
+strawberry jelly	11019297
+blackberry juice	10014623
+pomegranate juice	9442
+red currant jelly	10319297
+tomatoes in juice	10211693
+lingonberry jam	93692
+pineapple in juice	9354
+blood orange juice	1009206
+sweet pickle juice	93640
+passionfruit juice	9232
+dietetic grape jam	10943028
+dietetic grape jelly	10243028
+evaporated cane juice	93625
+dietetic cherry jam	10843028
+kale	11233
+kiwi	9148
+kelp	11445
+kefir	93611
+kamut	20138
+kahlua	93716
+kirsch	10614037
+kimchi	98860
+khoya	99090
+ketchup	11935
+kidney	13323
+kit-kat	19109
+kumara	11507
+kielbasa	7059
+kumquats	9149
+kohlrabi	11241
+kabocha	10311643
+kosher salt	1082047
+kidney beans	16033
+kecap manis	10016124
+kraft singles	1190
+kraut	11439
+kalamata olive	1009195
+kangkong	11503
+katsuobushi	98898
+korean marinade	99000
+kaffir lime leaves	93633
+korean chile	1072009
+kelp noodles	99081
+knockwurst	7038
+king oyster mushroom	10011987
+korean chili paste	1016973
+kosher dill sandwich slices	10211937
+kuri squash	10511643
+kaki	9263
+katuk	99137
+kesaur	11603
+karela	11024
+khesari	99138
+kelp flakes	93717
+katsu sauce	98997
+turkey kielbasa	7955
+pork kidney	10106
+cooked kamut	20139
+pork knuckle	98867
+corn kernel	11172
+rice krispies cereal	8065
+dried kidney beans	16032
+white kidney beans	16028
+cocoa krispies cereal	8014
+canned kidney beans	16034
+golden kiwi	1009148
+hershey kisses	93743
+popcorn kernels	25002
+lacinato kale	10011233
+fresh corn kernels	10011167
+canned red kidney beans	10016034
+pomegranate kernels	9286
+dried white kidney beans	16027
+canned white kidney beans	10116034
+lox	15077
+lime	9159
+leek	11246
+lamb	10017224
+lemon	9150
+lager	14003
+liver	13325
+liquor	14037
+lentil	16069
+lavash	93722
+lettuce	11252
+lb cake	18133
+lobster	15147
+lychee	9164
+limeade	99185
+lavang	1002011
+linguine	10720420
+lavender	93811
+lemonade	99184
+labne	1256
+lime zest	1009159
+lemon oil	10911111
+lime curd	98902
+lean beef	23557
+lime juice	9160
+lemon zest	9156
+lemongrass	11972
+lemon curd	93834
+lamb chops	17305
+lamb loin	10017026
+lima beans	16072
+long pasta	11420420
+limoncello	99021
+lump crab	10115136
+lemon juice	9152
+lamb rack	17029
+lean bacon	99006
+leg of lamb	17013
+light cream	1052
+lamb stock	10098844
+light tuna	15184
+ladyfingers	18423
+lamb shanks	17009
+lemon thyme	2049
+lowfat milk	1174
+lime jell-o	10019172
+light mayo	4641
+lemon balm	2064
+liquid smoke	93627
+lemon pepper	1012030
+lettuce leaf	93623
+light butter	4602
+lotus root	11254
+lobster meat	10115147
+lime leaves	93633
+liquid honey	19296
+lillet blanc	93786
+lemon extract	12311111
+lamb mince	17224
+lemon jell-o	19172
+liquid stevia	10811111
+lamb shoulder	17047
+london broil	23636
+lemon basil	2044
+lobster tails	10015147
+lacinato kale	10011233
+leafy greens	21052
+lemon lime pop	14144
+liquid pectin	42063
+lemon sole	10015028
+lemon cake mix	10018144
+lemon sorbet	10093691
+lamb rib chops	17032
+lamb cutlets	17239
+light soy sauce	10216124
+lasagna noodles	10620420
+lamb stew meat	17059
+long grain rice	10220444
+light olive oil	4053
+lemonade mix	14287
+lamb bone	12911111
+low fat yogurt	1117
+lamb loin chops	17023
+littleneck clams	10015157
+long pepper	99141
+luncheon meat	7908
+light brown sugar	19334
+lean ground lamb	17353
+low fat cheese	1168
+lite coconut milk	99009
+low fat sour cream	1179
+low fat buttermilk	1088
+lean ground turkey	5662
+light cream cheese	43274
+lo mein noodles	99027
+liquid egg whites	93833
+lemon pie filling	93753
+low sodium soy sauce	16424
+liverwurst	7041
+limeade concentrate	14303
+milk	1077
+mint	2064
+mayo	4025
+meat	1065062
+miso	16112
+mace	2022
+m&ms	19157
+mango	9176
+mirin	93830
+maple	19911
+matzo	10018217
+methi	98963
+millet	20031
+mawa	99090
+merlot	14602
+morels	11240
+mizuna	10011270
+mustard	2046
+matcha	98932
+mussels	15164
+marsala	14057
+madeira	10014106
+muesli	42184
+mesclun	21052
+mezcal	11014037
+molasses	19304
+mushroom	11260
+marjoram	2023
+macaroni	20499
+muscat	14140
+marzipan	93704
+mackerel	15050
+mexicorn	11176
+malt mix	14311
+margarine	4073
+meatballs	10110219
+monkfish	15054
+mahi mahi	15023
+mincemeat	93706
+mitsuba	99135
+marmalade	19297
+mozzarella	1026
+mascarpone	93820
+matzo meal	18217
+midori	93781
+mandarin	9218
+musk melon	98936
+masa flour	20317
+mince beef	10023572
+mortadella	7050
+meyer lemon	1009150
+milk powder	1090
+mixed spice	1022035
+mixed peel	9426
+mung beans	16080
+maui onion	11294
+marshmallow	19116
+maple sugar	19340
+mat bean	99144
+mangetout	10011300
+mango puree	1009176
+miracle whip	4014
+mango pulp	93688
+maca	99079
+mustard seed	2024
+mint chutney	98991
+minute rice	20048
+mint extract	1022050
+malt vinegar	1002053
+millet flour	20647
+mango powder	98964
+mini bun	93646
+mustard oil	4583
+mild cheddar	1009
+mango nectar	9436
+medjool dates	9421
+mango chutney	10119297
+maple extract	12111111
+manila clams	10015157
+monterey jack	1001025
+microgreens	11001
+manicotti	10220420
+mixed veggies	11583
+mixed berries	9054
+mexican crema	93772
+mint jelly	93683
+marinara sauce	10111549
+milk chocolate	19081
+margarita mix	93815
+mustard powder	1002024
+macadamia nuts	12131
+meatloaf mix	98865
+mulberries	9190
+maple flavor	11111111
+mexican cheese	1251
+mocha beans	19268
+mac n cheese	32004
+mustard greens	11270
+mirepoix	98957
+manchego cheese	93821
+nuts	12135
+nori	11446
+naan	93723
+nutmeg	2025
+noodle	20420
+nutella	19125
+nam pla	6179
+nopales	11963
+nectarine	9191
+nut butter	12195
+navy beans	16038
+nonfat milk	1085
+nonpareils	93645
+new potato	11352
+nacho chips	19056
+navel orange	9202
+nilla wafers	18609
+nettles	35205
+nonfat yogurt	1118
+natural yogurt	1116
+natural spices	2035
+nonfat cool whip	1200
+nutritional yeast	93690
+neufchatel cheese	1031
+nonfat sour cream	1180
+nonfat buttermilk	93650
+nonfat milk powder	1154
+nondairy creamer	1067
+nacho cheese sauce	98901
+napa cabbage leaves	10011970
+nonfat greek yogurt	1001256
+natural cane sugar	93625
+nutri grain cereal	1008029
+no calorie sweetener	19868
+nonfat vanilla yogurt	43261
+nonfat mayonnaise	42193
+nitrate free bacon	10123
+nondairy butter	4628
+nonfat cottage cheese	1014
+no salt added diced tomatoes	11885
+nonfat vanilla greek yogurt	99033
+nacho cheese doritos	19057
+nonfat half and half	1199
+nonfat mozzarella cheese	42304
+nyjer	99148
+nabulsi	93687
+neem leaf	99146
+neem fruit	99145
+instant noodles	6583
+angel hair noodles	10020420
+pine nut	12147
+pinot noir	14099
+mango nectar	9436
+anellini noodles	98884
+candied nuts	10093785
+canned navy beans	16039
+canned great northern beans	16026
+condensed nonfat milk	98880
+penne noodles	11120420
+udon noodles	98966
+canned lychee nut	98950
+bean thread noodles	16082
+egg nog	1057
+soy nuts	16111
+egg noodles	20409
+pecan nuts	12142
+quinoa noodles	99062
+mac n cheese	32004
+all natural eggs	1123
+brown rice noodles	99038
+rotini noodles	11320420
+rice noodles	20133
+pear nectar	9262
+soba noodles	20114
+soy nut butter	98900
+lasagna noodles	10620420
+half n half	1049
+coconut nut frosting	19227
+ziti noodles	11520420
+pork n beans	16009
+kelp noodles	99081
+gluten free noodles	98875
+gluten-free elbow macaroni noodles	10398875
+gluten free lasagna noodles	99052
+cacao nibs	98846
+agave nectar	19912
+peach nectar	9251
+fresine noodles	11820420
+guava nectar	9435
+dried navy beans	16037
+lo mein noodles	99027
+elbow noodles	10120499
+great northern beans	16025
+macaroni noodles	20499
+zucchini noodles	10111477
+hazel nut milk	99132
+lotus nuts	12013
+hokkien noodles	98967
+rigatoni noodles	11220420
+grape nuts cereal	8038
+oil	4582
+oats	8120
+okra	11278
+orzo	10920420
+oreo	10018166
+ouzo	10714037
+onion	11282
+olive	9195
+orange	9200
+oregano	2027
+oatmeal	8121
+oysters	15167
+oxtail	93778
+octopus	15166
+oat bran	20033
+olive oil	4053
+oat flour	20132
+onion salt	1072047
+ong choy	11503
+orange zest	9216
+orecchiette	10820420
+oat flakes	98899
+orange juice	9206
+onion powder	2026
+oyster sauce	6176
+ovaltine	14557
+onion rolls	99061
+orange oil	12511111
+onion flakes	11284
+oat milk	99149
+onion leaves	11291
+orange roughy	15073
+orange pepper	10011821
+onion soup mix	6094
+orange liqueur	10414534
+orange gelatin	10119172
+olive tapenade	98862
+orange marmalade	19303
+oil packed tuna	15119
+orange sections	1019200
+oyster crackers	10018228
+oyster mushrooms	11987
+okara	16130
+oreo pie crust	28111
+old bay seasoning	1052034
+oaxaca cheese	98989
+orange blossom water	12411111
+oriental sesame oil	4058
+orange food coloring	10711111
+oil cured black olives	1039195
+orange juice concentrate	9214
+onion and pepper mix	10011583
+oil packed sun dried tomatoes	11956
+olive oil cooking spray	1004679
+orange tomatoes	11695
+oil-packed anchovies	15002
+osso buco	17276
+okaka	98898
+o cereal	8013
+corn oil	42289
+coconut oil	4047
+cooked orzo	10920421
+off dry riesling	14132
+golden oreos	10018210
+corn on the cob	11167
+condensed cream of celery soup	6010
+condensed cream of chicken soup	6016
+condensed french onion soup	6354
+condensed cream of mushroom soup	6147
+bone in skin on chicken breasts	1005057
+bone in, skin on chicken breast halves	1015057
+bone in skin on turkey breast	1005191
+cooked orecchiette	10820421
+low-fat cream of chicken soup	6219
+avocado oil	4581
+brown onion	10511282
+blood orange	1009200
+groundnut oil	4042
+cooked irish oats	10093695
+cooked quick oats	8123
+blood orange juice	1009206
+blood orange zest	1009216
+lowfat cream of celery soup	6218
+lowfat cream of mushroom soup	1006988
+boneless skin on turkey breast	5191
+bone in skin on chicken thighs	1005091
+boneless skin on chicken thighs	5091
+boneless skin on chicken breast	5057
+boneless skin on chicken breast halves	1025057
+lemon oil	10911111
+almond oil	4529
+cipollini onions	10311282
+shoulder joint of pork	10083
+red onion	10011282
+leg of lamb	17013
+fat of choice	1011001
+mix of brownies	18632
+palm oil	4055
+hemp oil	99134
+leg of boar	10417158
+pam	4679
+peas	11304
+pear	9252
+pork	10010219
+port	10114057
+pita	18413
+plum	9279
+pike	98906
+pasta	20420
+pecan	12142
+pesto	93698
+peach	9236
+panko	10018079
+penne	11120420
+patis	6179
+prune	9291
+prawn	15152
+peeps	98850
+pepper	1002030
+potato	11362
+papaya	9226
+paneer	98847
+peanut	16091
+pickle	11937
+pernod	14551
+pectin	19310
+paprika	2028
+parsley	11297
+peppers	10111333
+pumpkin	11422
+polenta	10035137
+popcorn	19034
+parsnip	11298
+pepitas	10012014
+pb cups	19150
+pretzel	19047
+pimento	11943
+passata	10011547
+poblano	10011333
+porter	93619
+parmesan	1033
+pancetta	10410123
+pecorino	1038
+pea pods	11300
+palm oil	4055
+plantain	9277
+pine nut	12147
+pork fat	4002
+pak choi	11116
+pineapple	9266
+pie crust	18334
+pepperoni	7057
+pork butt	10084
+pork loin	10225
+pork ribs	10204
+pot roast	23612
+pomelo	9295
+pheasant	5153
+provolone	1035
+pizza mix	98924
+pastrami	7925
+pistachio	12151
+preserves	19297
+peanut oil	4042
+prosciutto	10010123
+pork chops	10010062
+pound cake	18133
+poppy seed	2033
+pork belly	10005
+palm sugar	93831
+pork roast	10010225
+pita chips	25037
+pea shoots	98945
+plum sauce	6151
+peppercorn	1022030
+persimmons	9265
+pork skins	98873
+pinot noir	14099
+pluots	98931
+pork links	1007063
+puff pastry	18337
+plain flour	20081
+pizza sauce	11549
+pizza dough	93610
+pasta sauce	10011549
+pizza crust	93770
+plum tomato	10411529
+pear juice	43408
+pinto beans	16043
+pastina	93647
+pancake mix	18292
+pomegranate	1009286
+pork mince	10219
+prime rib	13833
+phyllo cups	93817
+pulled pork	10983
+pasta water	14412
+ponzu sauce	93729
+pepper sauce	6168
+plain yogurt	1116
+quail	5157
+quark	93676
+quinoa	20035
+quince	9296
+queso dip	1188
+quail eggs	1140
+queso fresco	1228
+quinoa flour	93773
+quinoa flakes	93816
+quick cooking oats	8402
+quick cooking grits	8092
+quick cooking tapioca	93660
+quick cooking barley	20005
+quinoa pasta	99062
+quick-cooking white rice	20048
+quick-cooking brown rice	10020048
+quorn mince	98919
+queso quesadilla	98973
+black quinoa	10020035
+cooked quinoa	20137
+lambs quarters	11244
+carrot quickbread mix	93671
+cooked quick oats	8123
+cooked quick grits	8164
+cooked quick-cooking brown rice	10020049
+chicken quarters	1005091
+artichoke heart quarters	93828
+rum	14037
+rub	1012034
+rice	20444
+ribs	23236
+ranch	4639
+ramps	93793
+ragi	99128
+ramen	6583
+rocket	11959
+radish	11429
+rabbit	17180
+rotini	11320420
+romano	1038
+raisin	9299
+raita	1001116
+rhubarb	9307
+ricotta	1036
+romaine	10111251
+rib tip	98937
+rib eye	23232
+ravioli	93832
+rapini	11096
+rosemary	2036
+red wine	14096
+rye meal	98905
+rutabaga	11435
+rigatoni	11220420
+riesling	14132
+red miso	10016112
+red onion	10011282
+red beans	16033
+radicchio	11952
+rice wine	43479
+rye bread	18060
+raw honey	19296
+raw sugar	19908
+root beer	14157
+red chile	11819
+red apple	1029003
+rye flour	20064
+raspberry	9302
+rock salt	2047
+rose hips	35203
+rice milk	93761
+red beet	11080
+rib roast	13833
+rice chex	8064
+ranch mix	93733
+rosewater	10411111
+red plums	9279
+roast beef	93713
+red pepper	11821
+red grapes	9132
+rice flour	20061
+raw shrimp	15152
+rice paper	10118368
+roquefort	1039
+rockfish	15070
+red potato	10011355
+rump roast	13411
+rolled oats	8120
+red cabbage	11112
+rubbed sage	2038
+raw cashews	12087
+rum extract	12211111
+red lentils	10016069
+roma tomato	10211529
+round steak	23617
+red hots	93737
+rustic loaf	10028033
+red snapper	15101
+rice vinegar	1022053
+rice noodles	20133
+reese cups	19150
+risotto rice	10020052
+rapeseed oil	4582
+red chard	11147
+rock shrimp	10115152
+ribbon fish	99161
+refried beans	16202
+raspberry jam	10719297
+rice cakes	19816
+russet potato	11353
+regular chex	1008082
+ritz crackers	18621
+ripe bananas	9040
+roasted garlic	11215
+red jalapeno	10111819
+romaine hearts	10011251
+roast chicken	5112
+racks of lamb	17029
+rice syrup	93784
+red currants	9084
+red food color	10711111
+roasted peanuts	16092
+rainbow trout	15115
+runner beans	10011052
+reese's pieces	10019151
+red curry paste	93605
+ras el hanout	1062027
+s&p	1102047
+salt	2047
+sage	2038
+sake	43479
+sole	10115028
+suet	13335
+spam	7908
+sago	99164
+sugar	19335
+salsa	6164
+stock	1006615
+seeds	93818
+steak	23232
+squid	15175
+sumac	10211111
+stout	93619
+spelt	20140
+sazon	98999
+shoyu	16123
+swede	11435
+speck	10110123
+shrimp	15152
+salmon	15076
+stevia	93628
+sherry	10214106
+salami	7071
+squash	10011485
+shells	11020420
+spices	2035
+sesame	12023
+sorbet	93691
+sorrel	93621
+seitan	93654
+skate	99167
+swerve	99084
+scotch	10014052
+sprite	14144
+shark	15095
+snails	90560
+shallot	11677
+spinach	10011457
+sausage	1017063
+saffron	2037
+soymilk	16235
+splenda	10019868
+sukrin	99190
+sprouts	11001
+sucanat	19908
+sherbet	19097
+sirloin	23625
+seaweed	11445
+snapper	15101
+sorghum	20067
+sultana	9297
+seltzer	14121
+sea salt	1012047
+scallion	11291
+sriracha	1016168
+stilton	1021004
+sub buns	98940
+scallops	10015172
+stuffing	18082
+semolina	20066
+sea bass	10015004
+saltines	18228
+sardines	15088
+slaw mix	10011109
+soy pulp	16130
+snickers	19155
+salt cod	15018
+soy sauce	16124
+spaghetti	11420420
+skim milk	1085
+seasoning	1042027
+snow peas	11300
+salad mix	21052
+sprinkles	93645
+soybeans	16409
+spice mix	1032027
+stew meat	10013411
+snap peas	10011300
+salt pork	10165
+sour milk	1077
+schmaltz	4576
+swordfish	15110
+sour cream	1056
+sesame oil	4058
+shortening	4615
+soy flour	16115
+star anise	1012002
+sauerkraut	11439
+syrah	14100
+strawberry	9316
+sweet corn	11168
+spiced rum	10914037
+smoked ham	7216
+spring mix	10021052
+soy nuts	16111
+short ribs	10013147
+sushi rice	10220054
+tea	14355
+tofu	16162
+tuna	15119
+taro	11518
+twix	19160
+thyme	2049
+toast	18070
+tomato	11529
+turkey	5165
+tahini	12698
+tamari	10116124
+turnip	11564
+tempeh	16114
+truvia	93628
+toffee	10019383
+tequila	10814037
+tilapia	15261
+tabasco	6168
+tea bag	10111111
+tapioca	20068
+tumeric	2043
+teff	20142
+tarragon	2041
+tamarind	1019322
+tortilla	18364
+treacle	19304
+tzatziki	93777
+tofu skin	98891
+tangerine	1019218
+tomatillos	11954
+table salt	2047
+triple sec	14534
+tart apple	1029003
+thai basil	2044
+thai chili	11670
+tater tots	11398
+tubetti	10320499
+toffee bits	19383
+tortellini	93727
+truffle oil	1024053
+taco shells	18360
+tomato soup	6159
+teff flour	93760
+trout filet	15114
+turkey meat	5166
+tostadas	18952
+tangelo	1009218
+tia maria	10093716
+tart shells	98852
+turbinado	19908
+taco cheese	1251
+texas toast	98915
+tomato paste	11887
+turkey neck	5179
+tomato sauce	11549
+tomato puree	11547
+tomato juice	11886
+turbot	15129
+turkey bacon	42130
+tagliatelle	10220409
+turkey stock	1006172
+tagatose	99191
+turkey legs	5193
+tartar sauce	27049
+turkey broth	1016194
+turkey gravy	6326
+turkey breast	5696
+tapioca flour	93696
+tiger prawns	10115149
+turkey fat	4575
+tamarind pulp	1009322
+tortilla chips	19056
+taco seasoning	2073
+teriyaki sauce	6112
+turkey sausage	7955
+turkey thighs	98913
+turkey wings	5195
+tomato ketchup	11935
+tamarind paste	9322
+turnip greens	11568
+thick-cut bacon	10310123
+tri tip steak	10013954
+top round steak	23636
+turkey burgers	99026
+thai fish sauce	6179
+tri-tip roast	13958
+toffee bar	98978
+tangerine juice	9221
+tomatillo salsa	27028
+tri-color pasta	12020420
+turkish bay leaf	2004
+tarragon vinegar	1042053
+tortilla strips	98977
+turkey pepperoni	7278
+tenders	1015062
+taleggio cheese	93792
+turkey giblets	5171
+tamarind juice	9437
+trimmed watercress	11591
+tomatoes in juice	10211693
+urad dal	93718
+udon noodles	98966
+unsalted butter	1145
+unbleached flour	10020081
+unsalted peanuts	16390
+unsweetened cocoa	19165
+unbaked pie shell	18334
+unrefined sea salt	1002047
+unsweetened coconut	12108
+unsalted pistachios	12152
+unsulfured molasses	19304
+unsweetened chocolate	19078
+unpopped popcorn	25002
+unseasoned rice vinegar	1022053
+unsweetened coconut milk	12117
+unsmoked back bacon	10130
+unsweetened shredded coconut	10012108
+unbleached all purpose flour	20581
+unprocessed wheat bran	20077
+unsweetened dutch process cocoa powder	10019165
+uncooked shrimp	15152
+7 up	14144
+cooked udon noodles	10098966
+cooked urad whole	10093718
+store-bought, uniced cupcakes	18139
+veal	17142
+vodka	14051
+vanilla	2050
+vinegar	2053
+vidalia	11294
+venison	17164
+verjus	93757
+vermouth	14132
+velveeta	1192
+vegetable	11583
+vegeta	98990
+veal stock	6170
+veal chops	17104
+vanilla pod	93622
+vinaigrette	4135
+vegenaise	98975
+vegan cheese	93701
+veal shanks	17276
+vegetable oil	4513
+vanilla sugar	10319335
+vanilla paste	93813
+veal cutlets	17094
+vanilla yogurt	1119
+vanilla wafers	18609
+veal bones	13811111
+veggie patty	16147
+vegetable broth	6615
+vanilla powder	93812
+vanilla essence	1012050
+vegetable juice	31008
+vanilla frosting	10019230
+vegan margarine	4673
+virgin olive oil	4053
+vanilla cake mix	18137
+vanilla ice cream	19095
+vegetarian bacon	16542
+veggie lunch meat	98982
+vital wheat gluten	48052
+vanilla pudding mix	19206
+vegan sour cream	93608
+vegetable shortening	4615
+veggie sausage links	98971
+vine ripened tomatoes	11529
+vegan cream cheese	93634
+vanilla protein powder	99076
+vegan chocolate chips	98848
+vegetable stock cube	98845
+venison loin	17345
+vegetable oil spread	4073
+veggie crumbles	22120
+venison steak	10117345
+vegan cheddar cheese	10193701
+vanilla cream filled sandwich style cookies	18210
+vegan buttery sticks	4628
+vegetarian baked beans	16006
+veggie sausage patties	98972
+vegetarian sausages	98968
+vine leaves	11974
+venison shoulder	17346
+veal livers	17202
+vegan mozzarella	10093701
+vienna sausages	7083
+vegetarian meatballs	98969
+venison ribs	93643
+vanilla froyo	19293
+venison chops	10017345
+veggie nuggets	98981
+vegetable tortelini	10193727
+vegetable cooking spray	4679
+vanilla light ice cream	19088
+GF vanilla cake mix	99039
+red velvet cake mix	10018099
+rice vinegar	1022053
+wine vinegar	2068
+malt vinegar	1002053
+sea vegetable	11445
+rice vermicelli	20133
+plum vinegar	98954
+skim vanilla greek yogurt	99033
+root vegetable	10011298
+aloe vera juice	99095
+skim vanilla yoghurt	43261
+salsa verde	27028
+cider vinegar	2048
+black vinegar	1012053
+extra virgin olive oil	1034053
+anchovies in extra virgin olive oil	15002
+asian vegetables	10111583
+leafy vegetables	21052
+diced venison	10017164
+sherry vinegar	1012068
+ground venison	17343
+lowfat vanilla yogurt	1001119
+coconut vinegar	98930
+haricots verts	11052
+balsamic vinegar	2069
+red wine vinegar	1022068
+tarragon vinegar	1042053
+textured vegetable protein	98854
+balsamic vinegar of Modena	1002069
+wine	14084
+wrap	10018364
+water	14412
+wasabi	11990
+wings	5100
+walnut	12155
+wakame	11669
+whisky	14052
+wieners	21118
+wild rice	20088
+whole egg	1123
+wax beans	93711
+whole milk	1077
+white wine	14106
+white rice	10220444
+watercress	11591
+watermelon	9326
+wheat germ	20078
+walnut oil	4528
+white miso	10116112
+whitefish	10015261
+wheat bran	20077
+white sugar	19335
+white onion	10611282
+white bread	18069
+wood apple	99140
+white flour	20081
+white corn	11901
+white beans	10516050
+wheat chex	1008082
+wax gourd	99179
+white pepper	2032
+wine vinegar	2068
+whole garlic	11215
+wasabi paste	10011990
+whole turkey	5165
+white vinegar	2053
+whipped cream	1054
+whole chicken	5006
+whey protein	1001223
+whole almonds	12061
+whole cloves	1002011
+winter squash	10111485
+wasabi powder	10111990
+white cheddar	1011009
+wheat berries	98872
+waxy potatoes	11355
+whipping cream	1001053
+white cabbage	11109
+white cake mix	18137
+wheat gluten	93654
+wasabi peas	93719
+whole allspice	1002001
+white potatoes	10111362
+whole duck	5139
+whole fish	10115261
+worcestershire	6971
+whipped topping	42135
+whole tomatoes	10011531
+white chocolate	19087
+wonton wrappers	10018368
+wondra flour	93739
+white mushrooms	11260
+water chestnuts	11590
+walla walla	11294
+white cornmeal	35136
+waffle cones	18272
+wide egg noodles	20409
+whole star anise	1012002
+white grapes	9132
+whole wheat flour	20080
+whole kernel corn	11172
+whole wheat bread	18075
+water packed tuna	15121
+whole peppercorns	1022030
+white wine vinegar	1002068
+white peppercorns	1002032
+white grape juice	9135
+wheat flatbreads	10018042
+whole wheat pasta	20124
+whole cumin seeds	2014
+wholegrain mustard	1012046
+white sesame seeds	12023
+white morsels	10019087
+whole wheat penne	99182
+whole wheat pitas	18042
+whole cranberry sauce	9081
+whole wheat buns	18351
+wheat thin crackers	93728
+whole chicken legs	5075
+whole wheat tortillas	93675
+white asparagus	10011011
+white balsamic vinegar	1012069
+wholemeal rye flour	20064
+white corn tortillas	18363
+whole coriander seeds	2013
+white whole wheat flour	93824
+whole wheat couscous	99024
+whole wheat spaghetti	10020124
+whole wheat pastry flour	10020080
+xylitol	99005
+xanthan gum	93626
+yam	11601
+yuca	11134
+yuzu	93702
+yolk	1125
+yeast	18375
+yogurt	1116
+yam bean	11603
+yukon gold	10211362
+yuzu juice	93682
+yellow onion	10511282
+yellow miso	10216112
+yellow squash	11641
+yellow pepper	11951
+yellow mustard	2046
+yellow cornmeal	35137
+yellow cake mix	18144
+yellow tomato	11696
+yacon syrup	93806
+yellowfin tuna	15127
+yard long beans	11199
+yellow split peas	16085
+yellow wax beans	93711
+yellow food color	10711111
+yellow mustard seeds	2024
+yellow cherry tomatoes	10011696
+yellow curry paste	10193605
+yeast rolls	18347
+yellowtail snapper	10015101
+yellow corn flour	20019
+yuba	98891
+yellow spice drops	19106
+soy yogurt	16252
+gf yellow cake mix	99042
+skim yogurt	1118
+greek yogurt	1256
+fresh yeast	18374
+sweet yellow onion	11294
+lowfat yogurt	1117
+frozen yogurt	93629
+instant yeast	10118375
+vanilla yogurt	1119
+cooked yellow split peas	16086
+strawberry yogurt	1197
+skim greek yogurt	1001256
+nutritional yeast	93690
+lowfat greek yoghurt	93652
+skim vanilla yoghurt	43261
+lowfat vanilla yogurt	1001119
+vanilla frozen yogurt	19293
+skim vanilla greek yogurt	99033
+ziti	11520420
+za'atar	1002042
+zucchini	11477
+zinfandel	14102
+zucchini noodles	10111477
+zest of 1 lemon	9156
+zest of 1 orange	9216
+zero calorie sweetener	19868
+zest and juice of 1 lemon	9150
+lime zest	1009159
+baby zucchini	11953
+white zinfandel	10214057
+cooked ziti	11520421
+canned zucchini	10011477
+shirataki ziti	98923
+grapefruit zest	1009156
+blood orange zest	1009216

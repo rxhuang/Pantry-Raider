@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316575285831",
+    "firebase_url": "https://pantryraider-238cf.firebaseio.com",
+    "project_id": "pantryraider-238cf",
+    "storage_bucket": "pantryraider-238cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316575285831:android:724e21ec8e70b37c",
+        "android_client_info": {
+          "package_name": "com.example.stevetran.pantryraider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316575285831-slm9dueuu3ke7ar7gvldmi1fn02oofff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stevetran.pantryraider",
+            "certificate_hash": "20cf45755bb3696d09bc5070896ce4b467edb2e3"
+          }
+        },
+        {
+          "client_id": "316575285831-7cd8o8q6jtl9a57dpfdpu8nef80521e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8ZfshQFtw3DKKkZwbLsT4LDt3bRv1QU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316575285831-7cd8o8q6jtl9a57dpfdpu8nef80521e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

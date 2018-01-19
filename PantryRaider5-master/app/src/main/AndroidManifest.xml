@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stevetran.pantryraider">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home.HomeActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Pantry.PantryActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Search.SearchActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Setting.SettingActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Login.LoginActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Login.SignUpActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Search.Recipes.RecipeActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".Login.ForgetPasswordActivity"
+            android:windowSoftInputMode="adjustPan"></activity>
+
+    </application>
+
+</manifest>
